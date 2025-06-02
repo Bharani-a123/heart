@@ -37,10 +37,4 @@ heart-disease-prediction/
   - CA (Number of major vessels)
   - Thalassemia
 
-## 🚀 How to Run
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
